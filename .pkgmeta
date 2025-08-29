@@ -1,0 +1,6 @@
+package-as: BetterBags_Tabards
+
+ignore:
+  - .github
+  - .gitignore
+  - .pkgmeta
