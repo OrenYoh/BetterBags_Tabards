@@ -1,9 +1,9 @@
-## Interface: 110205, 50501, 40402, 30405, 20504, 11507
+## Interface: 110205, 50502, 40402, 30405, 20504, 11507
 ## Title: BetterBags - Tabards
 ## Category: Inventory
 ## Notes: Adds a Tabards category to BetterBags.
 ## Author: OrenYoh
-## Version: 1.3.8
+## Version: 1.3.9
 ## IconTexture: Interface\AddOns\BetterBags_Tabards\images\tabard
 ## Dependencies: BetterBags
 ## X-Curse-Project-ID: 979135
