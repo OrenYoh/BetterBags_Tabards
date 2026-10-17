@@ -6,9 +6,8 @@ local categories = BetterBags:GetModule('Categories')
 
 local addonName, root = ...;
 local L = root.L;
-local _G = _G
 
----@class BetterBags_Legendary: AceModule
+---@class BetterBags_Tabards: AceModule
 local addon = LibStub('AceAddon-3.0'):GetAddon(addonName)
 
 --@param itemInfo ItemData.itemInfo
