@@ -1,9 +1,4 @@
-# BetterBags - Tabards • a BetterBags plugin
-[![CurseForge BetterBags_Tabards](https://img.shields.io/badge/CurseForge-BetterBags_Tabards-EB622B.svg?style=flat)](https://www.curseforge.com/wow/addons/betterbags-tabards)
-[![Wago BetterBags_Tabards](https://img.shields.io/badge/Wago-BetterBags_Tabards-B71D23.svg?style=flat)](https://addons.wago.io/addons/betterbags-tabards)
-
-Create a custom category for tabards in BetterBags.
-
-### Added a new language to support?
-
-If you want your addon in your language you can open an issue / a PR. Otherwise, a "Localization" tab is available on Curse to translate. If you do, don't hesitate to ping me in the comments (I don't get notifications when new translations are added, and I sometimes forget to check).
+<h1 align="center">BetterBags - Tabards &bull; a BetterBags plugin</h1>
+<p align="center"><img src="https://media.forgecdn.net/attachments/description/979135/description_83818d48-32e4-4888-9d90-fc89100e9b7d.png" alt="BetterBags - DialogueUI Theme icon" width="300" height="300"></p>
+<p align="center"><a href="https://www.curseforge.com/wow/addons/betterbags-tabards" target="_blank" rel="nofollow noopener"><img src="https://img.shields.io/badge/CurseForge-BetterBags_Tabards-EB622B.svg?style=flat" alt="CurseForge BetterBags_Tabards"></a> <a href="https://addons.wago.io/addons/betterbags-tabards" target="_blank" rel="nofollow noopener"><img src="https://img.shields.io/badge/Wago-BetterBags_Tabards-B71D23.svg?style=flat" alt="Wago BetterBags_Tabards"></a></p>
+<p>Create a custom category for tabards in BetterBags.</p>
