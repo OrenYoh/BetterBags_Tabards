@@ -3,7 +3,7 @@
 ## Category: Inventory
 ## Notes: Adds a Tabards category to BetterBags.
 ## Author: OrenYoh
-## Version: 1.5.1
+## Version: 1.5.2
 ## IconTexture: Interface\AddOns\BetterBags_Tabards\images\tabard.png
 ## Dependencies: BetterBags
 ## X-Curse-Project-ID: 979135

@@ -11,7 +11,11 @@ local BetterBags = LibStub('AceAddon-3.0'):GetAddon("BetterBags")
 assert(BetterBags, "BetterBags_Tabards requires BetterBags")
 ---@class Categories: AceModule
 local categories = BetterBags:GetModule('Categories')
+---@class Context: AceModule
+local context = BetterBags:GetModule('Context')
 -----------------------------
+
+addon.context = context:New(L["CATEGORY_NAME"] .. "_Event")
 
 --- Addon core
 -----------------------------
@@ -30,7 +34,7 @@ function addon:OnReady()
     local categoryAlreadyExists = categories:GetCategoryByName(L["CATEGORY_NAME"])
 
     if not categoryAlreadyExists then
-        categories:CreateCategory({
+        categories:CreateCategory(addon.context:Copy(), {
             name = L["CATEGORY_NAME"],
             save = true,
             itemList = {},
